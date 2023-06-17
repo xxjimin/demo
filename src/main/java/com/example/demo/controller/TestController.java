@@ -23,4 +23,3 @@ ResponseDTO.<String>builder().data(list).build();
 return ResponseEntity.ok().body(response);
 }
 }
-
